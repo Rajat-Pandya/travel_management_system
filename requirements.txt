@@ -1,0 +1,4 @@
+# Travel Management System Requirements
+
+# Core Dependencies
+Pillow>=10.0.0

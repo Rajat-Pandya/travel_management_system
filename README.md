@@ -371,7 +371,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Your Name - [@Rajat-Pandya](https://github.com/Rajat-Pandya) - rajatkpandya3451@gmail.com
 
 Project Link: [https://github.com/yourusername/travel-management-system](https://github.com/yourusername/travel-management-system)
 
